@@ -3,15 +3,27 @@
     "name": "LeBron James"
   },
   {
-    "sports": "Basketball",
+    "sport": "Basketball",
     "team":{"name": "Lakers", "city": "Los Angeles"}
+  },
+  {
+    "position": "Forward"
+  },
+  {
+    "age": "38"
   },
   {
     "name": "Lionel Messi"
   },
   {
-    "sports": "Soccer",
+    "sport": "Soccer",
     "team":{"name": "Inter Miami", "city": "Miami"}
+  },
+  {
+    "position": "Forward"
+  },
+  {
+    "age": "36"
   }
 
 ]
