@@ -1,1 +1,17 @@
+[
+  {
+    "name": "LeBron James"
+  },
+  {
+    "sports": "Basketball",
+    "team":{"name": "Lakers", "city": "Los Angeles"}
+  },
+  {
+    "name": "Lionel Messi"
+  },
+  {
+    "sports": "Soccer",
+    "team":{"name": "Inter Miami", "city": "Miami"}
+  }
 
+]
