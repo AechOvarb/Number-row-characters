@@ -1,16 +1,16 @@
 [
   {
-    "name": "LeBron James"
+    "name": "LeBron James" //sting
   },
   {
     "sport": "Basketball",
-    "team":{"name": "Lakers", "city": "Los Angeles"}
+    "team":{"name": "Lakers", "city": "Los Angeles"} // object
   },
   {
     "position": "Forward"
   },
   {
-    "age": "38"
+    "age": "38" //number
   },
   {
     "name": "Lionel Messi"
